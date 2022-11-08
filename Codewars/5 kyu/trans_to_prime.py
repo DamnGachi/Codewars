@@ -1,7 +1,7 @@
 from typing import List
 from gmpy2 import next_prime
 
-numbers = [5,2]
+numbers = [189]
 
 
 def minimum_number(numbers: List[int]) -> int:
